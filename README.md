@@ -1,0 +1,1 @@
+AmazonClone (Non-Responsive) using HTML,CSS.
